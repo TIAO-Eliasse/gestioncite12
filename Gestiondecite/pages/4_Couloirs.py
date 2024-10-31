@@ -99,7 +99,7 @@ if choix_weekend in Equipe1_jour:
             st.write(pd.DataFrame(EquipeB,columns=["Nom et prenom              "]))
 else:
             st.write("Les équipes de nettoyage pour " +" "+ "le" + " " + choix_weekend + " sont les équipes 2 des deux blocs ")
-           EquipeA=["KONE Ayouba","NIKIEMA David", "SOME Renaud", "BANHORO Donald","TRAORE Ouhabou","GNADA Wend-Touin Hugues"]
+            EquipeA=["KONE Ayouba","NIKIEMA David", "SOME Renaud", "BANHORO Donald","TRAORE Ouhabou","GNADA Wend-Touin Hugues"]
             EquipeB=["SEBEGO Stephane","NITIEMA Joris","KABRE Oumarou","OUEDRAOGO Abdoul Faiçal"]
             st.write(" L'équipe 2 du bloc A est constituée de : ")
             st.write(pd.DataFrame(EquipeA, columns=["Nom et prenom            "]))
