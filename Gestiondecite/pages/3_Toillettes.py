@@ -68,7 +68,7 @@ if st.session_state.show_weekends:
 
 
 
-membres_blocB=["Bamogo Karim","SEBEGO Stephane","KABRE Oumarou","OURDRAOGO Abdoul Faiçal","KABORE Azaria "]
+membres_blocB=["Bamogo Karim","SEBEGO Stephane","KABRE Oumarou","OUEDRAOGO Abdoul Faiçal","KABORE Azaria "]
 import datetime
 
             # Définir les dates de début et de fin
